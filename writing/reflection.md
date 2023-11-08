@@ -30,7 +30,7 @@ TODO: Provide the output of the program when it did not contain the defect(s).
 
 TODO: Provide a detailed response to this question in at least one paragraph
 
-## Research and Cite Sources
+## Costs of the Program
 
 ### Explain the complexity of deepcopy, citing any sources used
 
@@ -56,3 +56,7 @@ citing any sources used
 
 TODO: Provide a detailed response to this question in at least one paragraph,
 citing any sources used
+
+### Explain the costs of nested loops, citing any sources used
+
+TODO: Provide a response to this question, citing any sources used
