@@ -30,22 +30,29 @@ TODO: Provide the output of the program when it did not contain the defect(s).
 
 TODO: Provide a detailed response to this question in at least one paragraph
 
-### Explain the complexity of deepcopy
+## Research and Cite Sources
 
-TODO: Provide a detailed response to this question in at least one paragraph
+### Explain the complexity of deepcopy, citing any sources used
 
-### Explain the complexity of `in`
+TODO: Provide a detailed response to this question in at least one paragraph,
+citing any sources used
 
-TODO: Provide a detailed response to this question in at least one paragraph
+### Explain the complexity of `in`, citing any sources used
 
-### Explain the complexity of .remove()
+TODO: Provide a detailed response to this question in at least one paragraph,
+citing any sources used
 
-TODO: Provide a detailed response to this question in at least one paragraph
+### Explain the complexity of .remove(), citing any sources used
 
-### Explain the complexity of .append()
+TODO: Provide a detailed response to this question in at least one paragraph,
+citing any sources used
 
-TODO: Provide a detailed response to this question in at least one paragraph
+### Explain the complexity of .append(), citing any sources used
 
-### Explain the complexity of tuple concatenation with +=
+TODO: Provide a detailed response to this question in at least one paragraph,
+citing any sources used
 
-TODO: Provide a detailed response to this question in at least one paragraph
+### Explain the complexity of tuple concatenation with +=, citing any sources used
+
+TODO: Provide a detailed response to this question in at least one paragraph,
+citing any sources used
