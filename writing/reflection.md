@@ -26,24 +26,26 @@ TODO: Provide the output of the program when it did not contain the defect(s).
 
 ## Program Understanding
 
-### Explain every component of the following function signature
-
-TODO: Provide a detailed response to this question in at least one paragraph
-
-`def remove_duplicates(list_one: List[Any], list_two: List[Any]) -> Tuple[List[Any], List[Any]]`
-
-### Explain every component of the following function signature
-
-TODO: Provide a detailed response to this question in at least one paragraph
-
-`def test_remove_duplicates() -> bool`
-
 ### What were the defect(s) in the `remove_duplicates` function? How did you find and fix it?
 
 TODO: Provide a detailed response to this question in at least one paragraph
 
-### Compare and contrast the use of Pytest and the "tests" in this program
+### Explain the complexity of deepcopy
 
 TODO: Provide a detailed response to this question in at least one paragraph
-TODO: Please ensure that your response is different from the last time that this question was asked
-TODO: Please refer to specific source code examples to support your response
+
+### Explain the complexity of `in`
+
+TODO: Provide a detailed response to this question in at least one paragraph
+
+### Explain the complexity of .remove()
+
+TODO: Provide a detailed response to this question in at least one paragraph
+
+### Explain the complexity of .append()
+
+TODO: Provide a detailed response to this question in at least one paragraph
+
+### Explain the complexity of tuple concatenation with +=
+
+TODO: Provide a detailed response to this question in at least one paragraph
