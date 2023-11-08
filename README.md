@@ -33,8 +33,9 @@ source code.
 The learning objectives of this assignment are to:
 
 1. Explore complexity of python operations
-2. Problem-solve effectively online
-3. Write clearly about the programming concepts in this assignment.
+2. Identify costly operations
+3. Problem-solve effectively online
+4. Write clearly about the programming concepts in this assignment.
 
 ## Seeking Assistance
 
